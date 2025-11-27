@@ -70,8 +70,8 @@ To create a Customer class hierarchy and calculate the final price of gold for R
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: LATHISH KANNA M
-RegisterNumber:  212222230073
+Developed by: Lubindher S
+RegisterNumber:  212222240056
 */
 ```
 
@@ -199,6 +199,7 @@ public class GoldRateSystem {
 
 ## RESULT:
 The program successfully calculates the final gold price for different customer types and displays discounts and cashback as applicable.
+
 
 
 
